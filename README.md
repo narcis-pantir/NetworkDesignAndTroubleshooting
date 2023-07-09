@@ -1,5 +1,6 @@
-# NetworkDesignAndTroubleshooting
+# NetworkDesignAndTroubleshooting 
 
+CISCO PACKET TRACER
 
 You are working as a network engineer in an IT company, you have been assigned to design, and implement a network infrastructure for a small company u-travel.co.uk. The company consists of 3 departments: Accounts, call centre, and admin. Each department must not be able to access any other departments.
  
