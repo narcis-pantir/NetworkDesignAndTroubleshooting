@@ -1,6 +1,8 @@
 # NetworkDesignAndTroubleshooting
 
-	You are working as a network engineer in an IT company, you have been assigned to design, and implement a network infrastructure for a small company u-travel.co.uk. The company consists of 3 departments: Accounts, call centre, and admin. Each department must not be able to access any other departments.
+
+You are working as a network engineer in an IT company, you have been assigned to design, and implement a network infrastructure for a small company u-travel.co.uk. The company consists of 3 departments: Accounts, call centre, and admin. Each department must not be able to access any other departments.
+ 
 The network consists of four Servers, web, email, dns, and common file server. All servers are shared between all users. The distribution of workstation, shown in table 1, describes the requirement of each department. The company admins decided to use wireless network to be used by any staff using their own wireless device such as smartphones to access the Internet.
 Department	Devices	Requirements
 Accounts	7 Computer & Printer	cannot access any other department
